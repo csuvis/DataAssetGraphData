@@ -5,3 +5,7 @@ Data have become valuable assets for enterprises. Data governance aims to manage
 DataAssetGraphData is a data asset graph dataset, aiming to facilitate the research and development of relevant methods and techniques for data governance. This dataset is a real-world dataset sourced from Huawei Cloud Computing Technologies Company Limited. The dataset contains 18 DLGs with diverse sizes from 278 nodes to 17,085 nodes. Each DLG contains the three most common types of data assets (nodes) and two types of relations (edges). 
 
 Each DLG is stored in a Node.json file and an Edge.json file. The Node.json file has two fields to provide the information of a data asset and the Edge.json file has four fields to provide the information of a relation. All Node.json files and Edge.json files are compressed into a Node.rar file and an Edge.rar file, respectively.
+
+# Reference Paper
+
+Yunpeng Chen, Ying Zhao, Xuanjing Li, Jiang Zhang, Jiang Long, Fangfang Zhou. An open dataset of data lineage graphs for data governance research[J]. Visual Informatics, 8(1):1-5, 2024. https://doi.org/10.1016/j.visinf.2024.01.001.
